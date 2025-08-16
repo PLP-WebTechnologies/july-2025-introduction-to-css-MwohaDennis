@@ -1,0 +1,38 @@
+body {
+    background-color: darkcyan;
+    font-size: 15px;
+    font-weight: bolder;
+    color: black;
+    font-family: Arial, sans-serif;
+    text-align: left;
+    letter-spacing: 2px;
+    line-height: 1.5;
+}
+
+header, main, footer {
+    max-width: 1000px;
+    margin: 10px;
+    padding: 0px;
+}
+
+section {
+    text-align: left;
+    background: white;
+    padding: 10px;
+    margin-bottom: 20px;
+    border-radius: 8px;
+}
+
+h1, h2 {
+    text-align: left;
+}
+
+ul {
+    padding-left: 20px;
+}
+
+img {
+    display: block;
+    margin: 20px auto;
+    border-radius: 8px;
+}
